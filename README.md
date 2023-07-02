@@ -8,6 +8,7 @@ Download the code, Open it in VS Code & Run.
 2. Heart
 3. Circle Design
 4. Pentagon RGB Pattern
-5. Triangle Circle Desgin
+5. Triangle Circle Design
+6. RGB Star Design
    
 
